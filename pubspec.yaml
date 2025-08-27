@@ -7,10 +7,11 @@ environment:
   sdk: ^3.8.0
 
 dependencies:
+  cryptography: ^2.7.0
   flutter:
     sdk: flutter
   http: ^0.13.6
-  mobile_scanner: ^3.5.0
+  mobile_scanner: ^7.0.1
 
 dev_dependencies:
   flutter_test:
